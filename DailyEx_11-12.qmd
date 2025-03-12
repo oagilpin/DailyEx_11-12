@@ -5,7 +5,9 @@ author:
 - name: "Olivia Gilpin: [GitHub](https://github.com/oagilpin)"
   email: "ogilpin@colostate.edu"
 date: 2025-03-11
-format: html
+format:
+  html:
+    self-contained: true
 execute:
   echo: true
 editor: visual
